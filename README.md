@@ -2,7 +2,7 @@
 
 This project was created by following the FreeCodeCamp Responsive Web Design tutorial.
 
-What I learned:
+What I learned from this:
 - Basic HTML structure
 - Semantic tags like figure and figcaption
 - How to link images
